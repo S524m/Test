@@ -1,0 +1,38 @@
+body {background:	#faf5eb;}
+
+h1{
+  font-size:39pt ;
+  text-align:center ;
+  color: #ff5599;
+}
+h2{
+  font-size:99pt ;
+  text-align:center ;
+  color: #775599;
+}
+
+img {
+  display: block;
+  margin: 100 auto;
+}
+
+p{ 
+
+  background-color: #1f86a6;
+  padding-top:50px; 
+  padding-left:30px; 
+  padding-right:30px; 
+  padding-bottom:50px; 
+  margin-top:30px; 
+  margin-left:600px; 
+  margin-right:600px; 
+  margin-bottom:20px;   }
+
+video-back{ 
+position:fixed;
+top:0;   
+left:0;
+min-width:100%;
+min-height:100%;
+z-index:-1;  
+}
